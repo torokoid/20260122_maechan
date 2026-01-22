@@ -312,11 +312,11 @@ p.note { display: none; }
 
 <br><br><br>
 <h2><span class="yellow">「カノープス」もちょっとマニアックなので説明リンク貼りますね</span></h2>
-<a href="https://www.astroarts.co.jp/special/2025canopus/index-j.shtml" target="_blank">カノープス説明リンク</a>
+    <h2><a href="https://www.astroarts.co.jp/special/2025canopus/index-j.shtml" target="_blank">カノープス説明リンク</a></h2>
 
 <br>
 <h2><span class="yellow">「地球照」はちょっとマニアックなので説明リンク貼りますね</span></h2>
-<a href="https://astro-dic.jp/earthshine/" target="_blank">地球照説明リンク</a>
+    <h2><a href="https://astro-dic.jp/earthshine/" target="_blank">地球照説明リンク</a></h2>
 
 
 
